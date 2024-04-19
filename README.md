@@ -1,5 +1,9 @@
 # Hello, I'm Edoardo Lobl 👋
 
+<p align="center">
+  <img src="octocat-1713456924432.png" alt="Edoardo's Avatar" width="500" height="500"> <!-- Adjust width and height as needed -->
+</p>
+
 ## Biologist, English Language Consultant, and Aspiring Software Developer
 🌱 Based in São José do Rio Preto, Brazil
 
