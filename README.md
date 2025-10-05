@@ -1,78 +1,182 @@
-# Hello, I'm Edoardo Lobl 👋
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&height=100&multiline=true&lines=Biologist+turned+Developer+%F0%9F%A7%AC%E2%86%92%F0%9F%92%BB;Building+AI-Powered+Solutions+%F0%9F%A4%96;Full-Stack+%26+GTM+Intelligence+%F0%9F%9A%80)](https://git.io/typing-svg)
 
- <p align="center">
-  <img src="octocat-1713456924432.png" alt="Edoardo's Avatar" width="500" height="500"> <!-- Adjust width and height as needed -->
-</p>
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/edoardolobl/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@edoardolobl">
-    <img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://discord.com/channels/@edoardolobl/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://discord.com/channels/@edoardolobl/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:edoardo.lobl@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
- </p>
+<img src="https://github.com/edoardolobl/edoardolobl/raw/main/octocat-1713456924432.png" width="200" alt="Custom Octocat"/>
 
-## Biologist, English Language Consultant, and Aspiring Software Developer
-🌱 Based in São José do Rio Preto, Brazil
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-edoardolobl-F85D7F?style=for-the-badge&logo=github&logoColor=white&labelColor=1F222E)](https://github.com/edoardolobl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F8D866?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F222E)](https://linkedin.com/in/edoardolobl)
+![Profile Views](https://komarev.com/ghpvc/?username=edoardolobl&color=F85D7F&style=for-the-badge&label=Profile+Views)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👋 About Me
 
-I'm a biologist from São Paulo State University - UNESP with a background in bioinformatics and a burgeoning passion for generative AI, particularly in Natural Language Processing (NLP). Currently, I am honing my skills as a software engineering student at Unicesumar and focusing on applications of machine learning and AI in various fields.
+I'm a **biologist-turned-developer** who discovered programming during a 2015 summer internship at **The Rockefeller University**. What started as building a sequence library management system in Perl evolved into a passion for full-stack development and AI engineering. Today, I build **AI-powered GTM intelligence tools**, craft **production-ready e-commerce platforms**, and explore the intersection of **machine learning and software architecture**.
 
----
-
-### 🚀 Current Project: ArquimedesAI
-
-**ArquimedesAI V0.2** is a leap forward in chatbot technology, integrated directly with Discord and powered by advanced NLP techniques. Here’s what makes ArquimedesAI special:
-
-- **LangChain Framework**: For sophisticated language understanding and generation.
-- **Retrieval Augmented Generation (RAG)**: Enhances response accuracy and relevance.
-- **Advanced Embeddings**: Utilizes sentence-transformers to create embedding vectors stored in a FAISS database.
-- **Mistral 7b LLM**: Powers the chatbot with nuanced, context-aware responses.
-- **Modular Design**: Easy maintenance and scalable architecture.
-- **Local Run Capability**: Ensures privacy and ease of access by running locally on your PC.
-
-🔗 [Explore ArquimedesAI](https://github.com/edoardolobl/ArquimedesAI)
+🌍 **Based in:** Brazil  
+🎯 **Current Focus:** AI-powered analytics and modern web applications  
+💡 **Background:** Biology (UNESP) → English Consulting → Software Development
 
 ---
 
-### 🛠 Skills
+## 🚀 Featured Projects
 
-- **Languages**: Python
-- **Frameworks/Tools**: Machine Learning, Training LLMs, RAG, NLP Tools
+<details open>
+<summary><b>🔥 Monks Sentinel (2025) - AI-Powered GTM Intelligence</b></summary>
 
-🌟 I’m currently learning more about machine learning techniques, fine-tuning LLMs, and creating datasets for generative AI.
+<br>
+
+[![Monks Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=edoardolobl&repo=monks_sentinel&theme=radical&title_color=F85D7F&text_color=F8D866&bg_color=1F222E&icon_color=F85D7F&border_color=F85D7F)](https://github.com/edoardolobl/monks_sentinel)
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1F222E)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white&labelColor=1F222E)
+![JSON-RPC](https://img.shields.io/badge/JSON--RPC-F85D7F?style=for-the-badge&labelColor=1F222E)
+![Asyncio](https://img.shields.io/badge/Asyncio-F8D866?style=for-the-badge&labelColor=1F222E)
+
+**What it does:**
+- 🤖 **AI-powered analysis** of Google Tag Manager containers using Gemini 2.5 Flash
+- 🔍 **Security auditing** and code quality checks for Custom HTML/JavaScript tags
+- 📊 **Modular JSON-RPC architecture** with async concurrency (10-20x performance boost)
+- 📈 **Multi-format reporting** (HTML/Markdown/JSON) with Tailwind-styled dashboards
+
+**Status:** 🟢 **Production-ready (v0.1.1)** - Context managers and semaphore optimizations implemented
+
+</details>
+
+<details>
+<summary><b>🛒 Moda Minas (2024-2025) - Brazilian Retail Management Platform</b></summary>
+
+<br>
+
+[![Moda Minas](https://github-readme-stats.vercel.app/api/pin/?username=edoardolobl&repo=moda-minas-nextjs&theme=radical&title_color=F85D7F&text_color=F8D866&bg_color=1F222E&icon_color=F85D7F&border_color=F85D7F)](https://github.com/edoardolobl/moda-minas-nextjs)
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1F222E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1F222E)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1F222E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1F222E)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1F222E)
+
+**What it does:**
+- 🏪 **Full-featured POS system** for Brazilian retail with fiscal compliance (CNPJ/CPF, Nota Fiscal)
+- 📦 **Inventory management** with FIFO costing and real-time stock tracking
+- 📊 **Sales analytics** with barcode scanning and multi-product operations
+- 🔐 **Supabase authentication** with role-based access control
+
+**Status:** 🟢 **Production-ready** - Active deployment with real-world usage
+
+</details>
+
+<details>
+<summary><b>🧬 Rockefeller Sequence Library (2015) - The Origin Story</b></summary>
+
+<br>
+
+[![Rockefeller](https://github-readme-stats.vercel.app/api/pin/?username=edoardolobl&repo=rockefeller_internship_sequencedb&theme=radical&title_color=F85D7F&text_color=F8D866&bg_color=1F222E&icon_color=F85D7F&border_color=F85D7F)](https://github.com/edoardolobl/rockefeller_internship_sequencedb)
+
+**Tech Stack:**  
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white&labelColor=1F222E)
+![Catalyst](https://img.shields.io/badge/Catalyst_MVC-F85D7F?style=for-the-badge&labelColor=1F222E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1F222E)
+
+**What it does:**
+- 🔬 **Bioinformatics sequence library management** system for The Rockefeller University
+- 📚 **Built during summer internship** in Michel Nussenzweig's lab (Laboratory of Molecular Immunology)
+- 🎓 **Learned programming from scratch** with mentor Thiago Y. Oliveira
+- 🔄 **Refactored in 2025** with modern security practices
+
+**Significance:** This is where it all began - from biology student to developer in one summer. Demonstrates rapid learning ability and foundational understanding of MVC architecture and database design.
+
+</details>
+
+<details>
+<summary><b>🤖 ArquimedesAI (2023-2024) - Discord RAG Chatbot</b></summary>
+
+<br>
+
+**Tech Stack:**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&labelColor=1F222E)
+![Mistral](https://img.shields.io/badge/Mistral_7B-F8D866?style=for-the-badge&labelColor=1F222E)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&labelColor=1F222E)
+
+**What it does:**
+- 💬 Discord chatbot with Retrieval Augmented Generation (RAG)
+- 🧠 Powered by Mistral 7B and FAISS vector database
+- 📖 Early exploration into AI/ML patterns and LangChain framework
+
+**Status:** 🟡 **Early AI Exploration** - Foundation for current AI engineering work
+
+</details>
 
 ---
 
-### 📫 How to Reach Me
+## 🛠️ Tech Stack
 
-- [LinkedIn](https://www.linkedin.com/in/edoardolobl/)
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1F222E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1F222E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1F222E)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white&labelColor=1F222E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1F222E)
+
+### Frameworks & Libraries  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1F222E)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1F222E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1F222E)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1F222E)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&labelColor=1F222E)
+
+### AI/ML
+![Google Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white&labelColor=1F222E)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&labelColor=1F222E)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=1F222E)
+
+### Infrastructure & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1F222E)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1F222E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1F222E)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1F222E)
+
+</div>
 
 ---
 
-### 🕹️ Hobbies
+## 📚 Currently Exploring (2025)
 
-When not coding, you can find me immersed in video games, exploring philosophy, devouring comic books, or watching anime. I have a keen interest in science and technology and love discussing these topics in multiple languages.
-
----
-
-### 🎨 Let's Make Something Fun!
-
-I love to engage in creative and fun projects, especially those that challenge the norm and push the boundaries of technology!
+- 🧠 **Advanced AI Engineering** - Google Gemini API optimization patterns and structured output
+- ⚡ **Async Python** - Context managers, semaphores, and concurrent processing at scale
+- 🎨 **Modern Web Stack** - Next.js 15 App Router with Server Components and Streaming
+- 🔍 **GTM Intelligence** - Building analytics tooling for tag management auditing
 
 ---
 
-👀 **Looking forward to connecting with fellow tech enthusiasts and innovators!**
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edoardolobl&show_icons=true&theme=radical&title_color=F85D7F&text_color=F8D866&bg_color=1F222E&icon_color=F85D7F&border_color=F85D7F"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoardolobl&layout=compact&theme=radical&title_color=F85D7F&text_color=F8D866&bg_color=1F222E&border_color=F85D7F"/>
+</div>
+
+<div align="center">
+  <img width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=edoardolobl&theme=radical&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=F8D866&sideLabels=F8D866&dates=F8D866&border=F85D7F"/>
+</div>
+
+<div align="center">
+  <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=edoardolobl&bg_color=1F222E&color=F8D866&line=F85D7F&point=F8D866&area=true&area_color=F85D7F"/>
+</div>
+
+---
+
+<div align="center">
+  <i>From biology benches to production code - always learning, always building. 🚀</i>
+</div>
