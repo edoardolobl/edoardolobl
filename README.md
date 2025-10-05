@@ -2,9 +2,9 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&height=100&multiline=true&lines=Biologist+turned+Developer+%F0%9F%A7%AC%E2%86%92%F0%9F%92%BB;Building+AI-Powered+Solutions+%F0%9F%A4%96;Full-Stack+%26+GTM+Intelligence+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br>
-
-<img src="https://github.com/edoardolobl/edoardolobl/raw/main/octocat-1713456924432.png" width="200" alt="Custom Octocat"/>
+<div style="margin-top: 30px;">
+  <img src="https://github.com/edoardolobl/edoardolobl/raw/main/octocat-1713456924432.png" width="200" alt="Custom Octocat"/>
+</div>
 
 <br>
 
@@ -33,8 +33,6 @@ I'm a **biologist-turned-developer** who discovered programming during a 2015 su
 
 <br>
 
-[![Monks Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=edoardolobl&repo=monks_sentinel&theme=radical&title_color=F85D7F&text_color=F8D866&bg_color=1F222E&icon_color=F85D7F&border_color=F85D7F)](https://github.com/edoardolobl/monks_sentinel)
-
 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1F222E)
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white&labelColor=1F222E)
@@ -55,8 +53,6 @@ I'm a **biologist-turned-developer** who discovered programming during a 2015 su
 <summary><b>🛒 Moda Minas (2024-2025) - Brazilian Retail Management Platform</b></summary>
 
 <br>
-
-[![Moda Minas](https://github-readme-stats.vercel.app/api/pin/?username=edoardolobl&repo=moda-minas-nextjs&theme=radical&title_color=F85D7F&text_color=F8D866&bg_color=1F222E&icon_color=F85D7F&border_color=F85D7F)](https://github.com/edoardolobl/moda-minas-nextjs)
 
 **Tech Stack:**  
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1F222E)
@@ -79,8 +75,6 @@ I'm a **biologist-turned-developer** who discovered programming during a 2015 su
 <summary><b>🧬 Rockefeller Sequence Library (2015) - The Origin Story</b></summary>
 
 <br>
-
-[![Rockefeller](https://github-readme-stats.vercel.app/api/pin/?username=edoardolobl&repo=rockefeller_internship_sequencedb&theme=radical&title_color=F85D7F&text_color=F8D866&bg_color=1F222E&icon_color=F85D7F&border_color=F85D7F)](https://github.com/edoardolobl/rockefeller_internship_sequencedb)
 
 **Tech Stack:**  
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white&labelColor=1F222E)
