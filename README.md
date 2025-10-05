@@ -2,9 +2,9 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&height=135&multiline=true&lines=Biologist+turned+Developer+%F0%9F%A7%AC%E2%86%92%F0%9F%92%BB;Building+AI-Powered+Solutions+%F0%9F%A4%96;Full-Stack+%26+GTM+Intelligence+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br><br><br>
+<br><br>
 
-<img src="https://github.com/edoardolobl/edoardolobl/raw/main/octocat-1713456924432.png" width="200" alt="Custom Octocat"/>
+<img src="https://github.com/edoardolobl/edoardolobl/raw/main/octocat-1713456924432.png" width="250" alt="Custom Octocat"/>
 
 <br>
 
