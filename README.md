@@ -162,12 +162,6 @@ I'm a **biologist-turned-developer** who discovered programming during a 2015 su
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="800px" src="https://streak-stats.demolab.com/?user=edoardolobl&theme=radical&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=F8D866&sideLabels=F8D866&dates=F8D866&border=F85D7F" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<div align="center">
   <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=edoardolobl&bg_color=1F222E&color=F8D866&line=F85D7F&point=F8D866&area=true&area_color=F85D7F"/>
 </div>
 
